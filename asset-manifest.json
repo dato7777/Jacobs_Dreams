@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Jacobs_Dreams/static/css/main.920ff188.css",
-    "main.js": "/Jacobs_Dreams/static/js/main.2341422e.js",
+    "main.js": "/Jacobs_Dreams/static/js/main.9beb0d7b.js",
     "index.html": "/Jacobs_Dreams/index.html",
     "main.920ff188.css.map": "/Jacobs_Dreams/static/css/main.920ff188.css.map",
-    "main.2341422e.js.map": "/Jacobs_Dreams/static/js/main.2341422e.js.map"
+    "main.9beb0d7b.js.map": "/Jacobs_Dreams/static/js/main.9beb0d7b.js.map"
   },
   "entrypoints": [
     "static/css/main.920ff188.css",
-    "static/js/main.2341422e.js"
+    "static/js/main.9beb0d7b.js"
   ]
 }
